@@ -13,8 +13,18 @@ Anyhow for rest, happy skidding you have everything you need ;) </h2>
   <img height="400" src="https://www.keepinspiring.me/wp-content/uploads/2021/05/you-cant-fix-stupid-ron-white-quote-684x1024.png"  />
 </div>
 
+###
+
+<br clear="both">
+
+<img align="right" height="160" src="https://i.ibb.co/xFX5fTG/grimreaper.png"  />
+
+###
+
 <div align="left">
   <a href="https://t.me/GrimReaper1312" target="_blank">
     <img src="https://img.shields.io/static/v1?message=@GrimReaper1312&logo=telegram&label=TG&color=202020&logoColor=Black&labelColor=202020&style=flat" height="35" alt="telegram logo"  />
   </a>
 </div>
+
+###
